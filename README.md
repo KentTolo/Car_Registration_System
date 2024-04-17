@@ -1,2 +1,17 @@
-# Car_Registration_System
-This is a system that registers all cars that enter a facility. It keeps a record of the the driver and passenger information of each car.
+# Car Registration System
+
+This system registers all cars that enter a facility and maintains a record of the driver and passenger information for each car.
+
+## Important Note
+
+This code is sensitive to incorrect data type usage. For example, the registration number is of type integer, and the use of a string will cause the code to crash.
+
+### Data Types
+
+- Passport number: string
+- Driver ID: integer
+- Registration number: integer
+- Surname: string
+- Gender: character
+- Car make: string
+
